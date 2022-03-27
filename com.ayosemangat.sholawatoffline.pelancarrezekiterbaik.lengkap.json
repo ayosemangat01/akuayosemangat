@@ -18,7 +18,7 @@
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
-"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_banner" : "APPLOVIN",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
 "PENGATURAN_IKLAN_native" : "ADMOB",
 
@@ -35,8 +35,8 @@
 
 "STARAPPID" : "207336036",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "ca-app-pub-5235183212728000/5648379515",
+"ADMOB_BANNER" : "af7f108e874bf186",
+"ADMOB_INTER" : "ca-app-pub-2598412128947067/8470821696",
 "ADMOB_NATIV" : "xx",
 
 "hpk_alien" : "",
